@@ -1,2 +1,2 @@
-# Robotics-Team
-"Words are small. Show me the code"
+# TR-TAG(The. Robotics. Team. of. A. Generation.)
+The Robotics Team, is a Class that teaches about coding
