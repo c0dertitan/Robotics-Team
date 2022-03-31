@@ -1,3 +1,5 @@
 #! /usr/bin/python
 
-print("Hello, Welcome to TR-TAG also known as.. The Robotics Team of A Generation!")
+textforprint = "Hello, welcome to TR-TAG if you choose to join the team ask The Head Admin of Robotics Team (AKA TR-TAG)
+
+print(textforprint)
